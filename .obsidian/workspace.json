@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "95e02c45fad64eaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "da5e7259bf1ced3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "968c98725212a6dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitLab/git-gitlab-basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e7bcf9984fc20e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Final Project/Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39f1e4596b758f6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fa12a06bfdc9efc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abc123115c114fd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5c7ab03799edcdd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6346977546557d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254
+  },
+  "right": {
+    "id": "df5f454912addd28",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d7d777c959d977e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eead7866d8ab2b92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Final Project/Resources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c317353fa3916d30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Final Project/Resources.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a19a8901ce655c64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "29b17e97367589b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Final Project/Resources.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "abc123115c114fd9",
+  "lastOpenFiles": [
+    "GitLab/gitlab-ci-cd.md",
+    "GitLab/git-gitlab-basics.md",
+    "Final Project/Resources.md",
+    "Untitled.canvas",
+    "www.heuristi.ca.md",
+    "README.md",
+    "().md",
+    "create a link.md",
+    "Welcome.md",
+    "GitLab",
+    "Final Project"
+  ]
+}
